@@ -6,7 +6,7 @@ export default function Dashboard() {
         <AuthenticatedLayout
             header={
                 <h2 className="text-xl font-semibold leading-tight text-gray-800">
-                    Inprotech Solutions Dashboard
+                    Dashboard
                 </h2>
             }
         >
@@ -16,7 +16,7 @@ export default function Dashboard() {
                 <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
                     <div className="overflow-hidden bg-white shadow-sm sm:rounded-lg">
                         <div className="p-6 text-gray-900">
-                            Welcome to the Inprotech Solutions Dashboard! Here you can manage your projects, view analytics, and access various tools to enhance your online business operations. Explore the features available in this dashboard to get started with your projects.
+                            You're logged in!
                         </div>
                     </div>
                 </div>
