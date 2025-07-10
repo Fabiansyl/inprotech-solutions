@@ -15,6 +15,14 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                inpro: {
+                    blue: '#002F5F',
+                    green: '#0AA95E',
+                    slate: '#2F3E4D',
+                    light: '#F8F9FA',
+                },
+            },
         },
     },
 
